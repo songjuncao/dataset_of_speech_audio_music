@@ -1,0 +1,3 @@
+- animal2vec and MeerKAT: A self-supervised transformer for rare-event raw audio input and a large-scale reference dataset for bioacoustics
+  - animal
+  - 1068小时狐獴声音数据，184小时标注

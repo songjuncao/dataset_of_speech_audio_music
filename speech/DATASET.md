@@ -1,0 +1,36 @@
+- title
+  - task(ASR/TTS/SPEAKER/SE...)
+  - language
+  - details
+- Text-To-Speech Synthesis In The Wild
+  - TTS
+  - English
+  - 从VoxCeleb1梳理出来的两个TTS数据集，每个大概180小时左右
+- MinSpeech: A Corpus of Southern Min Dialect for Automatic Speech Recognition
+  - ASR
+  - dialect(min)
+  - 闽南语数据：1778小时标注，2237小时无标注
+- Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation
+  - TTS
+  - multi-lingual
+  - 10万小时，6个语言(中/英/德/法/日/韩)
+- StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations
+  - TTS
+  - Chinese
+  - 中文高表现力数据，61小时
+- LibriheavyMix: A 20,000-Hour Dataset for Single-Channel Reverberant Multi-Talker Speech Separation, ASR and Speaker Diarization
+  - ASR/SPEAKER
+  - English
+  - 2万小时
+- Towards Robust Speech Representation Learning for Thousands of Languages
+  - ASR/LID
+  - multi-lingual
+  - 7400小时，4057个语言
+- MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research
+  - ASR
+  - multi-lingual
+  - 86300小时，15个语言
+- YODAS: Youtube-Oriented Dataset for Audio and Speech
+  - ASR
+  - multi-lingual
+  - 50万小时，100个语言
