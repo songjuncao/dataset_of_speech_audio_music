@@ -1,0 +1,3 @@
+- PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing
+- FakeMusicCaps: a Dataset for Detection and Attribution of Synthetic Music Generated via Text-to-Music Models
+- SynthSOD: Developing an Heterogeneous Dataset for Orchestra Music Source Separation
