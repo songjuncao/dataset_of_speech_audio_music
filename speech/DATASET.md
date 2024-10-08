@@ -2,6 +2,18 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5
+  - ASR/SV
+  - chinese
+  - 41.25 hours
+- FeruzaSpeech: A 60 Hour Uzbek Read Speech Corpus with Punctuation, Casing, and Context
+  - ASR
+  - Uzbek
+  - 60小时
+- MOSEL: 950,000 Hours of Speech Data for Open-Source Speech Foundation Model Training on EU Languages
+  - ASR
+  - EU languages
+  - 950,000小时
 - Spontaneous Informal Speech Dataset for Punctuation Restoration
   - Punctuation
   - English
