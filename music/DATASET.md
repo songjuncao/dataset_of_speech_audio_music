@@ -1,3 +1,4 @@
+- M6: Multi-generator, Multi-domain, Multi-lingual and cultural, Multi-genres, Multi-instrument Machine-Generated Music Detection Databases
 - CloserMusicDB: A Modern Multipurpose Dataset of High Quality Music
 - CHORDONOMICON: A Dataset of 666,000 Songs and their Chord Progressions
 - PDMX: A Large-Scale Public Domain MusicXML Dataset for Symbolic Music Processing
