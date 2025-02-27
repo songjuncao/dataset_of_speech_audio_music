@@ -2,6 +2,14 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition
+  - ASR
+  - 中英文
+  - 104小时
+- TAPS: Throat and Acoustic Paired Speech Dataset for Deep Learning-Based Speech Enhancement
+  - SE
+  - Korean
+  - 15小时
 - ChildMandarin: A Comprehensive Mandarin Speech Dataset for Young Children Aged 3-5
   - ASR/SV
   - chinese
