@@ -1,0 +1,2 @@
+- Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities
+- Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics

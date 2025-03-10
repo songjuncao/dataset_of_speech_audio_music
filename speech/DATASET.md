@@ -2,6 +2,10 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- Scaling Rich Style-Prompted Text-to-Speech Datasets
+  - TTS
+  - English
+  - 342人工标注+2427伪标注
 - CS-Dialogue: A 104-Hour Dataset of Spontaneous Mandarin-English Code-Switching Dialogues for Speech Recognition
   - ASR
   - 中英文
