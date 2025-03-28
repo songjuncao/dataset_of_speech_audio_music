@@ -2,6 +2,14 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- QualiSpeech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions
+  - Assesement
+  - English
+  - 10558条
+- SeniorTalk: A Chinese Conversation Dataset with Rich Annotations for Super-Aged Seniors
+  - TTS
+  - Chinese
+  - 55小时
 - Scaling Rich Style-Prompted Text-to-Speech Datasets
   - TTS
   - English
