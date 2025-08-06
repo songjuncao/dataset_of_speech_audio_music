@@ -2,6 +2,9 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- The trajectoRIR Database: Room Acoustic Recordings Along a Trajectory of Moving Microphones
+  - RIR
+  - 还没公开
 - QualiSpeech: A Speech Quality Assessment Dataset with Natural Language Reasoning and Descriptions
   - Assesement
   - English

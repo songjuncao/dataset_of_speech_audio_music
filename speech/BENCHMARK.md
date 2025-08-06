@@ -1,2 +1,3 @@
+- Voxlect: A Speech Foundation Model Benchmark for Modeling Dialects and Regional Languages Around the Globe
 - Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities
 - Talking Turns: Benchmarking Audio Foundation Models on Turn-Taking Dynamics
