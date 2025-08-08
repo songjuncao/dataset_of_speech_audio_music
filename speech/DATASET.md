@@ -2,6 +2,10 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding
+  - TTS
+  - English
+  - 38K条语音(包含十种语气现象)
 - The trajectoRIR Database: Room Acoustic Recordings Along a Trajectory of Moving Microphones
   - RIR
   - 还没公开
