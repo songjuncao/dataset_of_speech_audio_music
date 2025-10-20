@@ -2,6 +2,10 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- MNV-17: A High-Quality Performative Mandarin Dataset for Nonverbal Vocalization Recognition in Speech
+  - TTS
+  - Chinese
+  - 7.55小时
 - A Scalable Pipeline for Enabling Non-Verbal Speech Generation and Understanding
   - TTS
   - English
