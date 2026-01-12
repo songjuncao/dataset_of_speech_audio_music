@@ -2,6 +2,10 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
+  - TTS
+  - 10语种
+  - 150k小时
 - MNV-17: A High-Quality Performative Mandarin Dataset for Nonverbal Vocalization Recognition in Speech
   - TTS
   - Chinese
