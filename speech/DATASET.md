@@ -2,6 +2,10 @@
   - task(ASR/TTS/SPEAKER/SE...)
   - language
   - details
+- WAXAL: A Large-Scale Multilingual African Language Speech Corpus
+  - ASR+TTS
+  - 21语种
+  - 1250小时asr+180小时tts
 - LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
   - TTS
   - 10语种
